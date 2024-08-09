@@ -2,7 +2,7 @@ import Header from "../components/mian-header/header";
 import "./globals.css";
 
 export const metadata = {
-  title: "NextLevel Food",
+  title: "Foodies",
   description: "Delicious meals, shared by a food-loving community.",
 };
 

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import style from "./page.module.css";
-import getMeals from "@/lib/meals";
+import { getMeals } from "@/lib/meals";
 import MealGrid from "@/components/meals/meal-grid";
 import { Suspense } from "react";
 
